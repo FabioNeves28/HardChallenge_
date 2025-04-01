@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<businessObject>
+	<propertyGroup>
+		<property name="Id" type="int" />
+		<property name="FirstName" type="string" />
+		<property name="LastName" type="string" />
+		<property name="DateOfBirth" type="System.DateTime" />
+		<property name="AccountId" type="int" />
+		<property name="Username" type="string" />
+		<property name="Password" type="string" />
+		<property name="CreatedOn" type="System.DateTime" />
+	</propertyGroup>
+	<script>
+		CREATE TABLE User (
+		Id INTEGER PRIMARY KEY,
+		FirstName TEXT,
+		LastName TEXT,
+		DateOfBirth TEXT,
+		AccountId INTEGER,
+		Username TEXT,
+		Password TEXT,
+		CreatedOn TEXT
+		);
+	</script>
+</businessObject>

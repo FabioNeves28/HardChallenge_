@@ -1,0 +1,11 @@
+C:\Users\Fabio\Desktop\teste\f-bioneves-sv-challenge\HardChallenge\SmartVault.CodeGeneration\bin\Debug\netstandard2.0\SmartVault.CodeGeneration.deps.json
+C:\Users\Fabio\Desktop\teste\f-bioneves-sv-challenge\HardChallenge\SmartVault.CodeGeneration\bin\Debug\netstandard2.0\SmartVault.CodeGeneration.dll
+C:\Users\Fabio\Desktop\teste\f-bioneves-sv-challenge\HardChallenge\SmartVault.CodeGeneration\bin\Debug\netstandard2.0\SmartVault.CodeGeneration.pdb
+C:\Users\Fabio\Desktop\teste\f-bioneves-sv-challenge\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.csproj.AssemblyReference.cache
+C:\Users\Fabio\Desktop\teste\f-bioneves-sv-challenge\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Desktop\teste\f-bioneves-sv-challenge\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.AssemblyInfoInputs.cache
+C:\Users\Fabio\Desktop\teste\f-bioneves-sv-challenge\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.AssemblyInfo.cs
+C:\Users\Fabio\Desktop\teste\f-bioneves-sv-challenge\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Desktop\teste\f-bioneves-sv-challenge\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.sourcelink.json
+C:\Users\Fabio\Desktop\teste\f-bioneves-sv-challenge\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.dll
+C:\Users\Fabio\Desktop\teste\f-bioneves-sv-challenge\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.pdb
