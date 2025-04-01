@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SmartVault.Program/bin/Debug/net5.0/testdb.sqlite
+/SmartVault.Program/bin/Debug/net5.0/{0}
+/testdb.db
+/SmartVault.DataGeneration/bin/Debug/net5.0/testdb.sqlite
