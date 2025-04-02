@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartVault.DataGeneration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e2d66d1cc9f1ee73afb08ac9c4728d9811e167e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b709c8dd4be488ee8419d6a4ecea985570f101cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartVault.DataGeneration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartVault.DataGeneration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

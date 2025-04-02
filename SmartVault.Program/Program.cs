@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Threading;
 namespace SmartVault.Program
 {
-    partial class Program
+    public class Programe
     {
         static void Main(string[] args)
         {
@@ -35,7 +35,7 @@ namespace SmartVault.Program
         }
 
 
-        private static void GetAllFileSizes()
+        public static void GetAllFileSizes()
         {
             long totalSize = 0;
             int totalFiles = 0;
@@ -71,7 +71,7 @@ namespace SmartVault.Program
 
 
 
-        private static void WriteEveryThirdFileToFile(string accountId)
+        public static void WriteEveryThirdFileToFile(string accountId)
         {
             var baseDirectory = Path.Combine(Directory.GetCurrentDirectory(), @"..\..\..\..");
             var databaseFilePath = Path.Combine(baseDirectory, "testdb.db");
@@ -96,7 +96,7 @@ namespace SmartVault.Program
                 }
             }
 
-            Console.WriteLine($"Arquivo gerado: {outputFilePath}");
+            Console.WriteLine($"Generated Archive: {outputFilePath}");
         }
 
     }
